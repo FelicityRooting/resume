@@ -1,4 +1,6 @@
-# Resume of Lian Liu
+# Resume of Fang Liu
+
+#### resume address: [resume](http://skydaimond.site/resume/)
 
 #### Web Front-End Engineer
 
@@ -8,7 +10,7 @@ Tools: SCSS, bower, gulp
 
 ### About Permission
 
-The project is open-sourced under MIT license. 
+The project is open-sourced under MIT license.
 
 ## License
 
