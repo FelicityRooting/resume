@@ -1,17 +1,3 @@
-# Resume of Lian Liu
-
-#### Web Front-End Engineer
-
-Third-party library: [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
-
-Tools: SCSS, bower, gulp
-
-### About Permission
-
-The project is open-sourced under MIT license. 
-
-## License
-
 The MIT License (MIT)
 
 Copyright (c) 2015 Lian Liu

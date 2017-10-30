@@ -1,0 +1,26 @@
+{
+  "name": "Lian Liu Resume",
+  "version": "1.0.0",
+  "authors": [
+    "Lian Liu"
+  ],
+  "description": "Web Front-end Developer",
+  "keywords": [
+    "Resume",
+    "Web Developer",
+    "Web Front-end"
+  ],
+  "license": "CC BY 3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "pagepiling.js": "~0.0.7"
+  }
+}
+
