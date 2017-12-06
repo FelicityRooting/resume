@@ -1,6 +1,6 @@
 # Resume of Fang Liu
 
-#### resume address: [resume](http://skydaimond.site/resume/)
+#### resume address: [resume](http://skydaimond.site)
 
 #### Web Front-End Engineer
 
